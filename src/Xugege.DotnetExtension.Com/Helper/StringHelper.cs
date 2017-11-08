@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Text;
 
-namespace MyCompanyName.AbpZeroTemplate.Com.Helper
+namespace Xugege.DotnetExtension.Com.Helper
 {
     public class StringHelper
     {

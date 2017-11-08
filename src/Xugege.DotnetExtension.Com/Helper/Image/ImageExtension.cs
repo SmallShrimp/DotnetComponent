@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MyCompanyName.AbpZeroTemplate.Com.Helper.Image
+﻿namespace Xugege.DotnetExtension.Com.Helper.Image
 {
     public class ImageExtension
     {

@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xugege.DotnetExtension.Com.Extension;
 
-namespace MyCompanyName.AbpZeroTemplate.Com.Helper
+namespace Xugege.DotnetExtension.Com.Helper
 {
 
     /// <summary>

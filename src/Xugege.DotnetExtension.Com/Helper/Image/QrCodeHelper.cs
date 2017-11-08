@@ -17,7 +17,7 @@
 ////using ZXing.QrCode;
 ////using ZXing.QrCode.Internal;
 
-//namespace MyCompanyName.AbpZeroTemplate.Com.Helper.Image
+//namespace Xugege.DotnetExtension.Com.Helper.Image
 //{
 //    public class QrCodeHelper
 //    {

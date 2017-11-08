@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MyCompanyName.AbpZeroTemplate.Com.Helper
+namespace Xugege.DotnetExtension.Com.Helper
 {
     public class ArrayParamReader
     {
