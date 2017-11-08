@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/SmallShrimp/DotnetComponent</PackageProjectUrl>
+    <Description>收集总结一些dotnet中常用到的公共类方法扩展</Description>
+    <Copyright>xugege</Copyright>
+    <RepositoryUrl>https://github.com/SmallShrimp/DotnetComponent</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Extension\TypeExtend\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ZXing.Net.Core" Version="0.2.7" />
+  </ItemGroup>
+
+</Project>
